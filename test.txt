@@ -1,0 +1,221 @@
+F:The system shall display Events or Activities.
+F:Mid Journey is an Ai bot that generates images from Natural Language descriptions or prompts 
+Midjourney
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+Midjourney
+
+Logo
+Developer(s)	Midjourney, Inc.
+Initial release	July 12, 2022; 15 months ago (open beta)
+Website	midjourney.com
+
+A "mechanical dove" created with the V5 iteration of Midjourney's algorithm
+Part of a series on
+Artificial intelligence
+
+Major goals
+Approaches
+Philosophy
+History
+Technology
+Glossary
+vte
+Midjourney is a generative artificial intelligence program and service created and hosted by San Francisco–based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called "prompts", similar to OpenAI's DALL-E and Stability AI's Stable Diffusion.[1][2]
+
+The tool is currently in open beta, which it entered on July 12, 2022.[3] The Midjourney team is led by David Holz, who co-founded Leap Motion.[4] Holz told The Register in August 2022 that the company was already profitable.[5] Users create artwork with Midjourney using Discord bot commands.[6]
+
+History
+Midjourney, Inc. was founded in San Francisco, California, by David Holz,[7] previously co-founder of Leap Motion.[8] The Midjourney image generation platform first entered open beta on July 12, 2022.[3] However, on March 14, 2022, the Discord server launched with a request to post high-quality photographs to Twitter/Reddit for system's training.
+
+Model versions
+The company has been working on improving its algorithms, releasing new model versions every few months. Version 2 of their algorithm was launched in April 2022[9] and version 3 on July 25.[10] On November 5, 2022, the alpha iteration of version 4 was released to users[11][12] and on March 15, 2023, the alpha iteration of version 5 was released.[13] The 5.1 model is more 'opinionated' than version 5, applying more of its own stylization to images, while the 5.1 RAW model adds improvement while working better with more literal prompts. After version 5.2 is released with a increasingly better image quality.
+
+Regular models
+Version	Release date
+V1	February 2022[14]
+V2	April 12, 2022[9]
+V3	July 25, 2022[10]
+V4	November 5, 2022 (alpha)[11]
+V5	March 15, 2023 (alpha)[13]
+V5.1	May 3, 2023[15]
+V5.2	June 22, 2023[16]
+Other models
+Version	Release date	Notes
+--beta	August 22, 2022	
+test/testp	August 28, 2022	
+Niji	December 20, 2022	Collaboration between Midjourney and Spellbrush
+tuned to produce anime and illustrative styles
+Niji 5	April 2, 2023
+Functionality
+Midjourney is currently only accessible through a Discord bot on their official Discord server, by direct messaging the bot, or by inviting the bot to a third party server. To generate images, users use the /imagine command and type in a prompt;[17] the bot then returns a set of four images. Users may then choose which images they want to upscale. Midjourney is also working on a web interface.[citation needed]
+
+Beyond the /imagine command, Midjourney offers many other commands to send to the Discord bot. Including but not limited to the /blend command which allows the user to blend two images, the /shorten command allowing the user to get suggestions on how to make a long prompt shorter, and others which improve upon the Midjourney experience.
+
+Uses
+Founder David Holz says he sees artists as customers, not competitors of Midjourney. Holz told The Register that artists use Midjourney for rapid prototyping of artistic concepts to show to clients before starting work themselves.[5] Some artists have accused Midjourney of devaluing original creative work by using it in the training set;[18] Midjourney's terms of service includes a DMCA takedown policy, allowing artists to request their work to be removed from the set if they believe copyright infringement to be evident.[19]
+
+The advertising industry has been quick to embrace AI tools such as Midjourney, DALL-E, and Stable Diffusion, among others. The tools, which enable advertisers to create original content and brainstorm ideas quickly are providing new opportunities such as "custom ads created for individuals, a new way to create special effects, or even making e-commerce advertising more efficient", according to Ad Age.[20]
+
+Architects have described using the software to generate mood boards for the early stages of projects, as an alternative to searching Google Images.[21]
+
+Notable usage and controversy
+
+Théâtre D'opéra Spatial, a Midjourney image that won first prize in a digital art competition
+
+Image from Alice and Sparkle, a children's book illustrated by Midjourney. TIME describes this image as "showing the limits of the AI-powered technology. The illustration has several apparent flaws, including the character appearing to have claws."[22]
+The program was used by the British magazine The Economist to create the front cover for an issue in June 2022.[23][24] In Italy, the leading newspaper Corriere della Sera published a comic created with Midjourney by writer Vanni Santoni in August 2022.[25] Charlie Warzel used Midjourney to generate two images of Alex Jones for Warzel's newsletter in The Atlantic. The use of an AI-generated cover was criticised by people who felt it was taking jobs from artists. Warzel called his action a "mistake" in an article about his decision to use generated images.[26] Last Week Tonight with John Oliver included a 10-minute segment on Midjourney in an episode broadcast in August 2022.[27][28]
+
+A Midjourney image called Théâtre D'opéra Spatial won first place in the digital art competition at the 2022 Colorado State Fair. Jason Allen, who wrote the prompt that led Midjourney to generate the image, printed the image onto a canvas and entered it into the competition using the name "Jason M. Allen via Midjourney". Other digital artists were upset by the news.[18] Allen was unapologetic, insisting that he followed the competition's rules. The two category judges were unaware that Midjourney used AI to generate images, although they later said that had they known this, they would have awarded Allen the top prize anyway.[29]
+
+In December 2022, Midjourney was used to create the images in an AI-generated children's book in the span of a weekend. Titled Alice and Sparkle, the book features a young girl who builds a robot that becomes self-aware. The creator, Ammaar Reeshi, spent hours tweaking Midjourney prompts, rejecting hundreds of generated results to ultimately choose 13 illustrations for the book.[30] Both the product and process drew criticism: "the main problem... is that it was trained off of artists’ work. It’s our creations, our distinct styles that we created, that we did not consent to being used," one artist wrote.[31]
+
+
+A fake Midjourney-created image of Pope Francis wearing a puffer jacket, which went viral in 2023
+In 2023, the realism of AI-based text-to-image generators, such as Midjourney, DALL-E, or Stable Diffusion,[32][33] reached such a high level that it led to a significant wave of viral AI-generated photos. Widespread attention was gained by a Midjourney-generated photo of Pope Francis wearing a white puffer coat,[34][35] the fictional arrest of Donald Trump,[36] and a hoax of an attack on the Pentagon,[37] as well as the usage in professional creative arts.[38][39]
+
+Research has suggested that the images Midjourney generates can be biased.[40] For example, even "neutral" prompts in one study returned unequal results on the aspects of gender, skin color, and location.
+
+Content moderation and censorship in Midjourney
+Prior to May 2023, Midjourney implemented a moderation mechanism predicated on a "banned words" system. This method prohibited the use of language associated with explicit content, such as sexual or pornographic themes, as well as extreme violence. Moreover, the system also banned certain individual words including religious and political figures such as "Allah" or "Xi Jinping". This practice occasionally stirred controversy due to perceived instances of censorship within the Midjourney platform.[41][42]
+
+Commencing in May 2023, with subsequent updates post version 5, Midjourney transitioned to an "AI-powered" content moderation system. This advanced mechanism allowed for a more nuanced interpretation of user prompts by analyzing them in their entirety. It consequently facilitated the context-dependent use of words that had previously been prohibited. For instance, users can now prompt the AI to generate a portrait of "Xi Jinping". However, the system will prevent the generation of contentious images, such as depictions of global leaders, including Xi Jinping, in situations of arrest.[43]
+
+Litigation
+On January 13, 2023, three artists – Sarah Andersen, Kelly McKernan, and Karla Ortiz – filed a copyright infringement lawsuit against Stability AI, Midjourney, and DeviantArt, claiming that these companies have infringed the rights of millions of artists, by training AI tools on five billion images scraped from the web, without the consent of the original artists.[44]
+
+The legal action was initiated in San Francisco by attorney Matthew Butterick in partnership with the Joseph Saveri Law Firm, the same team challenging Microsoft, GitHub, and OpenAI (developer of ChatGPT and DALL-E) in court.
+
+In July 2023, U.S. District Judge William Orrick inclined to dismiss most of the lawsuit filed by Andersen, McKernan, and Ortiz but allowed them to file a new complaint.[45]
+
+Subscription service
+Midjourney had three subscription tiers[when?] which included a trial good for 25 image generations, but the company withdrew it,[when?] citing high demand and misuse.[46] As of September 2023, Midjourney costs between $10 and $120 per month, depending on the plan.[47]
+
+See also
+Artificial intelligence art
+Computer art
+Generative art
+References
+ "Huge "foundation models" are turbo-charging AI progress". The Economist. Retrieved June 26, 2022.
+ Hertzmann, Aaron (June 10, 2022). "Give this AI a few words of description and it produces a stunning image – but is it art?". The Conversation. Retrieved June 26, 2022.
+ @midjourney (July 12, 2022). "We're officially moving to open-beta! Join now at discord.gg/midjourney. **Please read our directions carefully** or check out our detailed how-to guides here: midjourney.gitbook.io/docs. Most importantly, have fun!" (Tweet). Retrieved August 31, 2022 – via Twitter.
+ Rose, Janus (July 18, 2022). "Inside Midjourney, The Generative Art AI That Rivals DALL-E". Vice.
+ Claburn, Thomas (August 1, 2022). "Holz, founder of AI art service Midjourney, on future images". The Register. Retrieved September 5, 2022.
+ Hachman, Mark (July 26, 2022). "Midjourney's enthralling AI art generator goes live for everyone". PCWorld. Retrieved September 5, 2022.
+ Salkowitz, Rob (September 16, 2022). "Midjourney Founder David Holz On The Impact Of AI On Art, Imagination And The Creative Economy". Forbes. Retrieved March 19, 2023.
+ Vincent, James (August 2, 2022). ""An engine for the imagination": an interview with David Holz, CEO of AI image generator Midjourney". The Verge. Retrieved March 19, 2023.
+ @midjourney (April 18, 2022). "We recently started testing a V2 algorithm, it's much better with characters and animals" (Tweet). Retrieved March 19, 2023 – via Twitter.
+ @midjourney (July 25, 2022). "Today we're starting to test our V3 image generation algorithms" (Tweet). Retrieved March 19, 2023 – via Twitter.
+ "David Holz on the official Midjourney Discord server". Discord. November 5, 2022. Retrieved March 19, 2023.
+ "Midjourney v4 greatly improves the award-winning image creation AI". TechSpot. November 10, 2022. Retrieved November 17, 2022.
+ "Midjourney V5 Creates Better Images, Fewer Nightmare Hands". HowToGeek. March 16, 2023. Retrieved March 16, 2023.
+ "Midjourney Model Versions". docs.midjourney.com. Retrieved September 25, 2023.
+ Collins, Barry (May 3, 2023). "Midjourney 5.1 Arrives - And It's Another Leap Forward For AI Art". Forbes. Retrieved May 5, 2023.
+ Edwards, Benj (June 23, 2023). ""Stunning"—Midjourney update wows AI artists with camera-like feature". Ars Technica. Retrieved June 25, 2023.
+ Becker, Isaac Stanley; Harwell, Drew (March 30, 2023). "How a tiny company with few rules is making fake images go mainstream". The Washington Post.
+ Gault, Matthew (August 31, 2022). "An AI-Generated Artwork Won First Place at a State Fair Fine Arts Competition, and Artists Are Pissed". Motherboard. Vice. Retrieved August 31, 2022.
+ "Terms of Service". Midjourney. Retrieved March 19, 2023.
+ Bonilla, Brian (September 22, 2022). "How ad agencies are using AI image generators—and how they could be used in the future". Ad Age. Retrieved March 19, 2023.
+ "The Architects Designing Surreal Worlds with AI". Bloomberg.com. January 31, 2023. Retrieved August 14, 2023.
+ "He Made A Children's Book Using AI. Artists Are Not Happy". Time. December 14, 2022. Retrieved August 19, 2023.
+ "How a computer designed this week's cover". The Economist. Retrieved June 26, 2022.
+ Liu, Gloria (June 21, 2022). "DALL-E 2 Made Its First Magazine Cover". Cosmopolitan. Retrieved June 26, 2022.
+ Bozzi, Ida (August 26, 2022). "Su "La Lettura", Highsmith inedita e le città che mutano". Corriere della Sera (in Italian). Retrieved March 19, 2023.
+ "I Went Viral in the Bad Way". Galaxy Brain. August 17, 2022. Retrieved August 31, 2022.
+ Gentile, Dan (August 16, 2022). "John Oliver is weirdly popular on this SF-based AI image app". SFGATE. Retrieved August 31, 2022.
+ Brathwaite, Lester Fabian (August 29, 2022). "John Oliver marries a cabbage in ceremony officiated by Steve Buscemi on 'Last Week Tonight'". EW.com. Retrieved August 31, 2022.
+ Roose, Kevin (September 2, 2022). "An A.I.-Generated Picture Won an Art Prize. Artists Aren't Happy". The New York Times. Retrieved September 2, 2022.
+ Stokel-Walker, Chris (December 13, 2022). "A Tech Worker Is Selling A Children's Book He Made Using AI. Professional Illustrators Are Pissed". BuzzFeed News. Retrieved December 19, 2022.
+ Popli, Nic (December 14, 2022). "He Used AI to Publish a Children's Book in a Weekend. Artists Are Not Happy About It". Time. Retrieved December 19, 2022.
+ Verma, Pranshu; Schaul, Kevin. "See why AI like ChatGPT has gotten so good, so fast". Washington Post. Retrieved May 28, 2023.
+ "Will AI-generated images create a new crisis for fact-checkers? Experts are not so sure". Reuters Institute for the Study of Journalism. April 11, 2023. Retrieved May 28, 2023.
+ Novak, Matt. "That Viral Image Of Pope Francis Wearing A White Puffer Coat Is Totally Fake". Forbes. Retrieved May 28, 2023.
+ Stokel-Walker, Chris (March 27, 2023). "We Spoke To The Guy Who Created The Viral AI Image Of The Pope That Fooled The World". BuzzFeed News. Retrieved May 28, 2023.
+ "Trump shares deepfake photo of himself praying as AI images of arrest spread online". The Independent. March 24, 2023. Retrieved May 28, 2023.
+ Oremus, Will; Harwell, Drew; Armus, Teo (May 22, 2023). "A tweet about a Pentagon explosion was fake. It still went viral". Washington Post. ISSN 0190-8286. Retrieved May 28, 2023.
+ Kolirin, Lianne (April 18, 2023). "Artist rejects photo prize after AI-generated image wins award". CNN. Retrieved May 28, 2023.
+ "How Generative AI Can Augment Human Creativity". Harvard Business Review. June 16, 2023. ISSN 0017-8012. Retrieved June 20, 2023.
+ Thomas, Ryan J.; Thomson, T. J. (July 7, 2023). "What Does a Journalist Look like? Visualizing Journalistic Roles through AI". Digital Journalism: 1–23. doi:10.1080/21670811.2023.2229883. ISSN 2167-0811.
+ McLaughlin, Sarah (March 31, 2023). "Midjourney CEO Says 'Political Satire In China Is Pretty Not Okay,' But Apparently Silencing Satire About Xi Jinping Is Pretty Okay". Techdirt. Retrieved August 26, 2023.
+ McFadden, Christopher (April 3, 2023). "Midjourney will no longer let you generate images of Xi Jinping". interestingengineering.com. Retrieved May 21, 2023.
+ Bastian, Matthias (May 3, 2023). "Midjourney now has an easy mode and a new AI moderation system". THE DECODER. Retrieved May 21, 2023.
+ Vincent, James (January 16, 2023). "AI art tools Stable Diffusion and Midjourney targeted with copyright lawsuit". The Verge.
+ Brittain, Blake (July 19, 2023). "US judge finds flaws in artists' lawsuit against AI companies". Reuters. Retrieved August 6, 2023.
+ "Midjourney Subscription Plans". docs.midjourney.com. Retrieved March 19, 2023.
+ "Midjourney Subscription Plans". docs.midjourney.com. Retrieved September 21, 2023.
+F: The display shall have two regions:  left 2/3 of the display is graphical  right 1/3 of the display is a data table
+F:The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data
+F:The table side of the display shall be split into 2 regions: sequential and temporal.
+F:The top 1/4 of the table will hold events that are to occur sequentially.
+F:The bottom 3/4 of the table will hold events that occur according to its relevance to current time.
+F:The system shall color code events according to their variance from current time.
+F:The system shall provide a history report of changes made to the Activity or Event data
+LF:The look and feel of the system shall conform to the user interface standards of the smart device.
+LF: The user interface shall have standard menus  buttons for navigation
+F:The system shall update or create new property listings in the MLS
+F:Realtor shall be able to generate a CMA report based on property criteria
+F:Program Administrators and Nursing Staff Members shall be able to add clinical classes or sections to a sequence of classes
+F: Program Administrators and Nursing Staff Members shall be able to add a new cohort to the system  identified by start month and year.
+F:Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.
+F:A class shall be either a non-clinical class or a clinical class.
+F: A non-clinical class shall specify the course name  lecture room requirements  and instructor needs.
+F: A clinical class shall specify the course name  lecture room requirements  clinical site needs  lecture instructor needs  and clinical lab instructor needs.
+F:Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.
+F:A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.
+F:Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study
+F:The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members  planning purposes.
+F: The report of needed classes shall include (but not be limited to) classes to be offered  number of sections needed  number of labs needed  and room types needed.
+F:Classes for a given cohort shall not conflict with regards to the time and day that they are offered.
+F:Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.
+F: Clinical site information shall include (but not be limited to) the name of the site  contact person  and contact information.
+F:Program Administrators and Nursing Staff Members shall be able to add a new clinical lab section for an existing clinical class into the System.
+F: A clinical lab section shall include the clinical site name  the class  instructor  day and time of the lab.
+F:Program Administrators and Nursing Staff Members shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.
+F:The system shall allow a Program Administrator or Nursing staff member to remove a student from a clinical lab section.
+F:The system shall allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical class.
+F:Program Administrators/Nursing Staff Members shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.
+F:A Program Administrator/Nursing Staff Member shall be able to add a new nursing student to the system.
+F: A staff member shall have the ability to manage the progress of a part time student  which includes modifying their sequence of classes and timeline of classes.
+F: The system shall be able to display a printable summary for individual cohorts  which will include the students enlisted  the Program of study  sequence of classes  cohort progress through the program  and timeline of completion.
+F: The system shall be able to display a printable summary for individual clinical sites  which will include information on labs being held at that site for the given quarter (Clinical site  general information on labs held at that location  dates and times of all labs held there).
+F: The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.
+F: The system shall be able to display a printable summary for individual nursing students  which will include (but not be limited to) student name  student ID  admission date  classes  credits  GPA  and the cohort that the student is enrolled in.
+F:The system shall be able to display a printable summary of the system log.
+F: The system shall contain contact information (e-mail and phone number) for all people relevant to the system  including (but not limited to) staff members  students  lecture instructors  clinical lab instructors  and clinical site administrators.
+F: The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort s program of study and changes to a given week s schedule (lab cancelled this week due to instructor illness).
+F: The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student s status from full time to part time and moving a student to a different clinical section.
+F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts  including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.
+F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department  including the Program of study name  and required classes for that Program of Study.
+F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.
+F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Lab Section  including the clinical site name  the department/section for the lab  the class  instructor  day and time of lab  and contact information.
+F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student  including student ID  student name  phone number  e-mail  status (full time or part time)  and program of study.
+LF:The Disputes application shall comply with the corporate standards for user interface creation for internally and externally used applications.
+LF:All screens created as part of the Disputes application must comply with corporate standards for interface creation.
+US:The list of dispute cases that are displayed after a search is performed must be color coded for easy identification of dispute cases based upon the dispute case status.
+US:100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.
+US:100% of cardmember services representatives shall be able to successfully create a dispute case on the first encounter after completing the training course.
+US:100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+O:The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.
+O:The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.
+O:The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.
+O:The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant s accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.
+SE:The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.
+SE:Only users with Update access must be able to initiate dispute requests.
+SE:The Disputes application shall ensure that only authorized users are allowed to logon to the application.
+SE: All authorized users  once authenticated must be able to logon to the Disputes System
+SE:The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user s access level.  The report will be reviewed for auditing purposes.
+SE:All additions of new users and modifications to users access shall be recorded on the User Report.
+SE: If a user account is revoked  it can only be re-instantiated by the System Administrator.
+SE:Only the System Administrator shall be able to reset a revoked user logon account
+SE:The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.
+SE:All updates to data files or database must be initiated from the Disputes System.
+L:The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.
+L:All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.
+L:The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.
